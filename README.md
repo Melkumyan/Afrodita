@@ -6,4 +6,4 @@
 
 **Description:** Flex, Animation
 
-**GitHub Pages:** [afrodita-loftschool]()
+**GitHub Pages:** [afrodita-loftschool](https://melkumyan.github.io/Afrodita/)
